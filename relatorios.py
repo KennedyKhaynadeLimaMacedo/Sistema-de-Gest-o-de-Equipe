@@ -1,4 +1,3 @@
-
 def gerar_relatorio(produtos):
     print("\n--- RELATÓRIO DO ESTOQUE ---")
 

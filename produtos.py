@@ -1,4 +1,3 @@
-
 def cadastrar(produtos):
     cod = input("Código: ").strip()
 
